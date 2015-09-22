@@ -5,7 +5,7 @@ CUNY Graduate Center
 Mondays 4:15pm–6:15pm - Room 6496
 
 **Dr. Matthew K. Gold**  
-Office Hours: T 4:30-5:30 and by appointment 
+Office Hours: T 4:30-5:30 and by appointment <br />
 mgold@gc.cuny.edu  
 http://mkgold.net  
 @mkgold  
